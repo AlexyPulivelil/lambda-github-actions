@@ -78,5 +78,6 @@ Also make sure you give the correct lambda function name
 
 ```
 Once its done check the workflow, you can see the workflow the being deployed.
+![Image1](Step2.png)
 
 Refrence : https://www.youtube.com/watch?v=UQiRhKgQ5X0
