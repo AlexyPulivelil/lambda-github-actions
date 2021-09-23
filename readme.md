@@ -1,8 +1,8 @@
 # How to deploy a lambda function using github actions?
 
 # Part 1
-Before setting up the GitHub actions, you need to carray out few steps
-1. Create a lambdafunction
+Before setting up the GitHub actions, you need to carry out few steps
+1. Create a lambda function
 2. Create a trigger(API Gateway)
 3. AWS Credentials
 
