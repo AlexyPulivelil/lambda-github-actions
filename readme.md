@@ -50,6 +50,9 @@ Next you need to set-up aws credentials
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           aws-region: ap-south-1
 ```
+![Image1](Step1.png)
+<br>
+
 In each repository you can set up AWS Access Key and Scret Key hiddien. There is a feature in GitHub itself.
 
 1. After selecting the repository click the settings. 
